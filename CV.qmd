@@ -32,7 +32,9 @@ https://linkedin.com/in/manuel-zeballos-419456249 <https://linkedin.com/in/manue
 **Research Gate:**   
 https://www.researchgate.net/profile/Manuel-Zeballos <https://www.researchgate.net/profile/Manuel-Zeballos>
 
+:::
 
+::: {.text-left}
 
 # Summary
 
