@@ -1,94 +1,101 @@
 [
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Manuel Zeballos",
+    "section": "",
+    "text": "Córdoba, Argentina\nLinkedIn: https://linkedin.com/in/manuel-zeballos-419456249 https://linkedin.com/in/manuel-zeballos-419456249\nResearch Gate:\nhttps://www.researchgate.net/profile/Manuel-Zeballos https://www.researchgate.net/profile/Manuel-Zeballos\n\n\nBiologist with advanced training in sustainability, remote sensing, and GIS, specializing in environmental monitoring and spatial data analysis. Proven experience in satellite imagery processing, ecological research, and environmental risk assessment. Skilled in Python, R, QGIS, and Google Earth Engine. Passionate about leveraging remote sensing and geospatial tools to address global environmental challenges.\n\n\n\n\nMain: Remote Sensing, Hyperspectral Data, Wildfire Monitoring, Spatial Data Pipelines\nTechnical Skills: Remote Sensing, GIS, Spatial Data Modeling, Data Visualization, Database Management.\nSoftware Proficiency: Python (Geopandas, Numpy, Scikit-learn, Rasterio, GDAL), R, QGIS, SNAP, PostgreSQL, Linux,\nCloud-based geospatial processing Google Earth Engine, OpenEO, Zarr files management\nAnalytical Skills: Satellite Image Analysis, Environmental Risk Assessment, Ecological Modeling, Hyperspectral Data Processing, Data Management, Natural Resources, Critical Analysis.\nOther Skills: Scientific Writing, Reporting, Teaching, Project Management, Attention to Detail, Strong Communication Skills, Collaboration.\n\n\n\nEnglish: Proficient (Reading), Intermediate (Writing/Speaking)\nItalian: Basic (Reading, Writing/Speaking)\nPortuguese: Intermediate (Reading), Basic (Writing/Speaking)\nSpanish: Native\n\n\n\n\n\n\n\n\nNational Commission on Space Activities (CONAE), Argentina\nFebruary 2024 – Present\n\n\nConstructed and managed multi-source database and implementing quality control procedures for geospatial products metadata, to support the creation of the institutional GeoNode platform.\n\nBuilt multiple end-to-end pipelines for remote sensing data in Python (Geopandas, Numpy, Scikit-learn, Rasterio, GDAL, and Xarray) , R and GEE to model spatial data.\n\nImplemented data cleaning, radiometric corrections, and time-series processing workflows to support ecological and environmental studies.\n\nCarry on the research project “Evaluation of the potential of hyperspectral remote sensing for monitoring vegetation affected by fires in mountain ecosystems in Cordoba, Argentina.” usign Python, R, QGIS, and GEE to analyze hyperspectral data, wich led to the creation of a integrated tool for wildfire monitoring in Cordoba, Argentina.\n\n\n\n\nEOSIAL, Sapienza University of Rome, Italy\nFebruary 2025 – July 2025\n\nScholarship granted by the Italian Ministry of Foreign Affairs (MAECI).\nConducted research on Earth Observation applications under the supervision of Prof. Dr. Giovanni Laneve.\nDeveloped automated Python pipelines for preprocessing and analyzing hyperspectral remote sensing data.\nIntegrated remote sensing techniques into ecological and wildfire change studies using hyperspectral data.\n\n\n\n\nUniversity of Pavia and Italian Space Agency (ASI), Italy\nFebruary 2025 – July 2025\n\nApplied advanced remote sensing methodologies to process and analyze satellite imagery for environmental monitoring.\nLeveraged satellite data and EO software to build models for sustainability and risk assessment applications.\nDeveloped a Land Cover Classification on the Jureca HPC cluster (Jülich Supercomputing Center, Germany).\n\n\n\n\nIDECOR – UNC, Córdoba, Argentina\nOctober 2023 – March 2024\n\nSpecific collaboration agreement with Banco de la Provincia de Córdoba S.A.\nDesigned and executed an Environmental and Social Territorial Sensitivity Analysis (ASAST) for Córdoba Province, integrating all available data sources developed by IDECOR.\nI developed a local fire hazard index for the entire Córdoba, Argentina region.\nCompiled a comprehensive set of over 21 thematic maps and layers, essential for conducting thorough territorial and environmental risk assessments.\nDrafted detailed reports for stakeholders.\n\n\n\n\nFaculty of Exact, Physical and Natural Sciences, UNC\nMay 2020 – February 2024\n\nConducted and planned theoretical classes and practical activities.\n\n\n\n\nIDEA-CONICET, Córdoba, Argentina\nMay 2019 – September 2021\n\nProject: Influence of the Urban Heat Island effect on the flight and foraging activity of Plebeia catamarcensis.\nResulted in publication in a high-impact journal: DOI: 10.1080/00218839.2022.2110431.\n\n\n\n\nIDEA-CONICET, Córdoba, Argentina\nMarch 2018 – January 2019\n\nLed research experiments and presented results in internal seminars.\nResulted in a published poster: DOI: 10.24215/25456377e006R.\n\n\n\n\n\n\n\n\n\nFAMAF, UNC – CONAE, Córdoba, Argentina\n\nAwarded the CONAE Postgraduate Scholarship.\nSpecialized in remote sensing and GIS applications for environmental studies.\nSpatial data processing and analysis using Python and R.\n\nRelevant Coursework\n\nDigital Processing of Satellite Images and GIS (10.00/10)\nProgramming and Numerical Methods for Satellite Information Processing (10.00/10)\nApplications of Synthetic Aperture Radar Imagery (9.67/10)\nEnvironmental Remote Sensing (9.00/10)\nNumerical Models for Early Warning, Risk Mapping, and Simulation (9.00/10)\nSpatial Analysis and Risk Situations (9.00/10)\nTools for Environmental Assessment, Management, and Monitoring (9.00/10)\n\n\n\n\nUniversity of Pavia – Italian Space Agency (ASI), Italy \n\n\n\nMario Gulich Institute, CONAE, UNC, Argentina (10/10)\n\n\n\nNational University of Córdoba UNC, Argentina (8.9/10) \n\n\n\nNational University of Córdoba\n\n\n\n\n\n\n\nSpring School on Artificial Intelligence and Quantum Computing in Earth Observation (2025) at Gulich institute (Argentina) by IEEE-GRSS.\nMachine Learning for Earth Observation and Data Fusion (2025), Blended Intensive Program:\n\nIntroduction to Machine and Deep Learning for EO, by Paolo Gamba (Uni. Pavia, Italy)\nDeep Learning for hyperspectral data, by Jocelyn Chanussot (Grenoble Institute of Technology, France)\nDeep Learning for multilabel classifications, by Begüm Demir, Jonas Klotz, Mathis Jürgen Adler (Technische Universität Berlin, Germany)\nLarge-Scale Deep Learning with HPC for EO, by (Jülich Supercomputing Center)\n\nHyperspectral data processing (2025), by Claudia Giarndino (CNR-IREA, Italy)\nRetrieval of biophysical parameters from optical and radar data (2025),Mattia Callegari (EuRAC, Italy).\nCubesats and smallsats for Earth observation (2025), by Adriano Camps (Universitat Politècnica de Catalunya, Spain).\nRemote sensing for wildfire applications (2025), by Giovanni Laneve (Sapienza University, Roma, Italy)\nSustainability, Development and Social Participation in Latin America (2022), University of Kassel and UNSAM. \n\n\n\n\n\n\nResearch Internship Scholarship – Ministry of Foreign Affairs of Italy (2024–2025). Awarded for a 6-month research internship in the space sector.\nModulo ASI Scholarship - University of Pavia, Italy (2025). Funding for specific training of experts and users of the SIASGE system data, including the inscription of “Summer School in Space Sciences”\nIDEA Professional Development Microgrant microgrant - IEEE Geoscience and Remote Sensing Society (2025). Financial support for Remote Sensing investigation.\nPosgraduate Scholarship - National Commission on Space Activities (2024-2025). Funding for Master’s programs at the Gulich Institute (UNC-CONAE).\n\n\n\n\n\n\nGeoscience and Remote Sensing Society (GRSS) — IEEE graduate student member.\n\n\n\n\n\n\nPoster: Master’s in Spatial Information Applications: Insights after 100 Graduates Across South America and Italy (2025). Living Planet Symposium\n\nInfluence of the Urban Heat Island Effect on the Flight and Foraging Activity of Plebeia catamarcensis (2022). Journal of Apicultural Research. DOI link\n\nPoster: Reproductive Biology and Evolution (2019). DOI link"
+  },
+  {
     "objectID": "CV.html#languages",
     "href": "CV.html#languages",
     "title": "Manuel Zeballos",
-    "section": "Languages",
-    "text": "Languages\n\nEnglish: Proficient (Reading), Intermediate (Writing/Speaking)\nItalian: Basic (Reading, Writing/Speaking)\nPortuguese: Intermediate (Reading), Basic (Writing/Speaking)\nSpanish: Native"
+    "section": "",
+    "text": "English: Proficient (Reading), Intermediate (Writing/Speaking)\nItalian: Basic (Reading, Writing/Speaking)\nPortuguese: Intermediate (Reading), Basic (Writing/Speaking)\nSpanish: Native"
   },
   {
     "objectID": "CV.html#masters-research-fellow",
     "href": "CV.html#masters-research-fellow",
     "title": "Manuel Zeballos",
-    "section": "Master’s Research Fellow",
-    "text": "Master’s Research Fellow\nNational Commission on Space Activities (CONAE), Argentina\nFebruary 2024 – Present\n\n\nConstructed and managed multi-source database and implementing quality control procedures for geospatial products metadata, to support the creation of the institutional GeoNode platform.\n\nBuilt multiple end-to-end pipelines for remote sensing data in Python (Geopandas, Numpy, Scikit-learn, Rasterio, GDAL, and Xarray) , R and GEE to model spatial data.\n\nImplemented data cleaning, radiometric corrections, and time-series processing workflows to support ecological and environmental studies.\n\nCarry on the research project “Evaluation of the potential of hyperspectral remote sensing for monitoring vegetation affected by fires in mountain ecosystems in Cordoba, Argentina.” usign Python, R, QGIS, and GEE to analyze hyperspectral data, wich led to the creation of a integrated tool for wildfire monitoring in Cordoba, Argentina."
+    "section": "",
+    "text": "National Commission on Space Activities (CONAE), Argentina\nFebruary 2024 – Present\n\n\nConstructed and managed multi-source database and implementing quality control procedures for geospatial products metadata, to support the creation of the institutional GeoNode platform.\n\nBuilt multiple end-to-end pipelines for remote sensing data in Python (Geopandas, Numpy, Scikit-learn, Rasterio, GDAL, and Xarray) , R and GEE to model spatial data.\n\nImplemented data cleaning, radiometric corrections, and time-series processing workflows to support ecological and environmental studies.\n\nCarry on the research project “Evaluation of the potential of hyperspectral remote sensing for monitoring vegetation affected by fires in mountain ecosystems in Cordoba, Argentina.” usign Python, R, QGIS, and GEE to analyze hyperspectral data, wich led to the creation of a integrated tool for wildfire monitoring in Cordoba, Argentina."
   },
   {
     "objectID": "CV.html#maeci-research-fellowship-in-remote-sensing",
     "href": "CV.html#maeci-research-fellowship-in-remote-sensing",
     "title": "Manuel Zeballos",
-    "section": "MAECI Research Fellowship in Remote Sensing",
-    "text": "MAECI Research Fellowship in Remote Sensing\nEOSIAL, Sapienza University of Rome, Italy\nFebruary 2025 – July 2025\n\nScholarship granted by the Italian Ministry of Foreign Affairs (MAECI).\nConducted research on Earth Observation applications under the supervision of Prof. Dr. Giovanni Laneve.\nDeveloped automated Python pipelines for preprocessing and analyzing hyperspectral remote sensing data.\nIntegrated remote sensing techniques into ecological and wildfire change studies using hyperspectral data."
+    "section": "",
+    "text": "EOSIAL, Sapienza University of Rome, Italy\nFebruary 2025 – July 2025\n\nScholarship granted by the Italian Ministry of Foreign Affairs (MAECI).\nConducted research on Earth Observation applications under the supervision of Prof. Dr. Giovanni Laneve.\nDeveloped automated Python pipelines for preprocessing and analyzing hyperspectral remote sensing data.\nIntegrated remote sensing techniques into ecological and wildfire change studies using hyperspectral data."
   },
   {
     "objectID": "CV.html#asi-training-fellowship",
     "href": "CV.html#asi-training-fellowship",
     "title": "Manuel Zeballos",
-    "section": "ASI Training Fellowship",
-    "text": "ASI Training Fellowship\nUniversity of Pavia and Italian Space Agency (ASI), Italy\nFebruary 2025 – July 2025\n\nApplied advanced remote sensing methodologies to process and analyze satellite imagery for environmental monitoring.\nLeveraged satellite data and EO software to build models for sustainability and risk assessment applications.\nDeveloped a Land Cover Classification on the Jureca HPC cluster (Jülich Supercomputing Center, Germany)."
+    "section": "",
+    "text": "University of Pavia and Italian Space Agency (ASI), Italy\nFebruary 2025 – July 2025\n\nApplied advanced remote sensing methodologies to process and analyze satellite imagery for environmental monitoring.\nLeveraged satellite data and EO software to build models for sustainability and risk assessment applications.\nDeveloped a Land Cover Classification on the Jureca HPC cluster (Jülich Supercomputing Center, Germany)."
   },
   {
     "objectID": "CV.html#gis-and-earth-observation-consultant",
     "href": "CV.html#gis-and-earth-observation-consultant",
     "title": "Manuel Zeballos",
-    "section": "GIS and Earth Observation Consultant",
-    "text": "GIS and Earth Observation Consultant\nIDECOR – UNC, Córdoba, Argentina\nOctober 2023 – March 2024\n\nSpecific collaboration agreement with Banco de la Provincia de Córdoba S.A.\nDesigned and executed an Environmental and Social Territorial Sensitivity Analysis (ASAST) for Córdoba Province, integrating all available data sources developed by IDECOR.\nI developed a local fire hazard index for the entire Córdoba, Argentina region.\nCompiled a comprehensive set of over 21 thematic maps and layers, essential for conducting thorough territorial and environmental risk assessments.\nDrafted detailed reports for stakeholders."
+    "section": "",
+    "text": "IDECOR – UNC, Córdoba, Argentina\nOctober 2023 – March 2024\n\nSpecific collaboration agreement with Banco de la Provincia de Córdoba S.A.\nDesigned and executed an Environmental and Social Territorial Sensitivity Analysis (ASAST) for Córdoba Province, integrating all available data sources developed by IDECOR.\nI developed a local fire hazard index for the entire Córdoba, Argentina region.\nCompiled a comprehensive set of over 21 thematic maps and layers, essential for conducting thorough territorial and environmental risk assessments.\nDrafted detailed reports for stakeholders."
   },
   {
     "objectID": "CV.html#student-assistant",
     "href": "CV.html#student-assistant",
     "title": "Manuel Zeballos",
-    "section": "Student Assistant",
-    "text": "Student Assistant\nFaculty of Exact, Physical and Natural Sciences, UNC\nMay 2020 – February 2024\n\nConducted and planned theoretical classes and practical activities."
+    "section": "",
+    "text": "Faculty of Exact, Physical and Natural Sciences, UNC\nMay 2020 – February 2024\n\nConducted and planned theoretical classes and practical activities."
   },
   {
     "objectID": "CV.html#junior-research-assistant",
     "href": "CV.html#junior-research-assistant",
     "title": "Manuel Zeballos",
-    "section": "Junior Research Assistant",
-    "text": "Junior Research Assistant\nIDEA-CONICET, Córdoba, Argentina\nMay 2019 – September 2021\n\nProject: Influence of the Urban Heat Island effect on the flight and foraging activity of Plebeia catamarcensis.\nResulted in publication in a high-impact journal: DOI: 10.1080/00218839.2022.2110431."
+    "section": "",
+    "text": "IDEA-CONICET, Córdoba, Argentina\nMay 2019 – September 2021\n\nProject: Influence of the Urban Heat Island effect on the flight and foraging activity of Plebeia catamarcensis.\nResulted in publication in a high-impact journal: DOI: 10.1080/00218839.2022.2110431."
   },
   {
     "objectID": "CV.html#student-researcher",
     "href": "CV.html#student-researcher",
     "title": "Manuel Zeballos",
-    "section": "Student Researcher",
-    "text": "Student Researcher\nIDEA-CONICET, Córdoba, Argentina\nMarch 2018 – January 2019\n\nLed research experiments and presented results in internal seminars.\nResulted in a published poster: DOI: 10.24215/25456377e006R."
+    "section": "",
+    "text": "IDEA-CONICET, Córdoba, Argentina\nMarch 2018 – January 2019\n\nLed research experiments and presented results in internal seminars.\nResulted in a published poster: DOI: 10.24215/25456377e006R."
   },
   {
     "objectID": "CV.html#msc-in-spatial-information-applications-expected-early-2026",
     "href": "CV.html#msc-in-spatial-information-applications-expected-early-2026",
     "title": "Manuel Zeballos",
-    "section": "MSc in Spatial Information Applications (expected early 2026)",
-    "text": "MSc in Spatial Information Applications (expected early 2026)\nFAMAF, UNC – CONAE, Córdoba, Argentina\n\nAwarded the CONAE Postgraduate Scholarship.\nSpecialized in remote sensing and GIS applications for environmental studies.\nSpatial data processing and analysis using Python and R.\n\nRelevant Coursework\n\nDigital Processing of Satellite Images and GIS (10.00/10)\nProgramming and Numerical Methods for Satellite Information Processing (10.00/10)\nApplications of Synthetic Aperture Radar Imagery (9.67/10)\nEnvironmental Remote Sensing (9.00/10)\nNumerical Models for Early Warning, Risk Mapping, and Simulation (9.00/10)\nSpatial Analysis and Risk Situations (9.00/10)\nTools for Environmental Assessment, Management, and Monitoring (9.00/10)"
+    "section": "",
+    "text": "FAMAF, UNC – CONAE, Córdoba, Argentina\n\nAwarded the CONAE Postgraduate Scholarship.\nSpecialized in remote sensing and GIS applications for environmental studies.\nSpatial data processing and analysis using Python and R.\n\nRelevant Coursework\n\nDigital Processing of Satellite Images and GIS (10.00/10)\nProgramming and Numerical Methods for Satellite Information Processing (10.00/10)\nApplications of Synthetic Aperture Radar Imagery (9.67/10)\nEnvironmental Remote Sensing (9.00/10)\nNumerical Models for Early Warning, Risk Mapping, and Simulation (9.00/10)\nSpatial Analysis and Risk Situations (9.00/10)\nTools for Environmental Assessment, Management, and Monitoring (9.00/10)"
   },
   {
     "objectID": "CV.html#asi-training-program-module-on-earth-observation-2025",
     "href": "CV.html#asi-training-program-module-on-earth-observation-2025",
     "title": "Manuel Zeballos",
-    "section": "ASI Training Program Module on Earth Observation (2025)",
-    "text": "ASI Training Program Module on Earth Observation (2025)\nUniversity of Pavia – Italian Space Agency (ASI), Italy"
+    "section": "",
+    "text": "University of Pavia – Italian Space Agency (ASI), Italy"
   },
   {
     "objectID": "CV.html#university-diploma-in-applied-geomatics-2023",
     "href": "CV.html#university-diploma-in-applied-geomatics-2023",
     "title": "Manuel Zeballos",
-    "section": "University Diploma in Applied Geomatics (2023)",
-    "text": "University Diploma in Applied Geomatics (2023)\nMario Gulich Institute, CONAE, UNC, Argentina (10/10)"
+    "section": "",
+    "text": "Mario Gulich Institute, CONAE, UNC, Argentina (10/10)"
   },
   {
     "objectID": "CV.html#bachelor-of-science-in-biology-2021",
     "href": "CV.html#bachelor-of-science-in-biology-2021",
     "title": "Manuel Zeballos",
-    "section": "Bachelor of Science in Biology (2021)",
-    "text": "Bachelor of Science in Biology (2021)\nNational University of Córdoba UNC, Argentina (8.9/10)"
+    "section": "",
+    "text": "National University of Córdoba UNC, Argentina (8.9/10)"
   },
   {
     "objectID": "CV.html#basic-technician-in-environmental-issues-2014",
     "href": "CV.html#basic-technician-in-environmental-issues-2014",
     "title": "Manuel Zeballos",
-    "section": "Basic Technician in Environmental Issues (2014)",
-    "text": "Basic Technician in Environmental Issues (2014)\nNational University of Córdoba"
+    "section": "",
+    "text": "National University of Córdoba"
   },
   {
     "objectID": "index.html",
