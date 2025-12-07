@@ -1,0 +1,260 @@
+---
+title: \Huge Manuel Zeballos \par
+subtitle: "Earth Observation Specialist"
+filters:
+  - output_name.lua
+params:
+  target_role: "data_scientist"  # Change this per application
+  include_management: false
+  include_research: true
+  brand:
+  typography:
+    base: Source Sans 3
+  color:
+    primary: "#516db0"
+    link: "#202b47"
+  defaults: 
+    awesomecv-typst:
+      font-header: Roboto
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - top=15mm 
+      - bottom=20mm
+      - vmargin=20mm
+      - hmargin=25mm
+    title-spacing:
+      before: 0pt
+      after: 0pt     # ← change this to control space below the title
+    subtitle-title-spacing:
+      before: 0pt
+      after: 1pt
+
+  html:
+    theme: cosmo
+    toc: true
+
+---
+\begin{center}
+\textbf{Córdoba, Argentina}
+
+%%% Cell: (+54) 9 351 2353858
+%%%| manuel.zeballos@ig.edu.ar
+%%% Cell: (+39) 344 433 2055
+%%%| manuel.zeballos@mi.unc.edu.ar
+
+LinkedIn: 
+\href{https://linkedin.com/in/manuel-zeballos-419456249}{https://linkedin.com/in/manuel-zeballos-419456249}
+
+Research Gate: 
+\href{https://www.researchgate.net/profile/Manuel-Zeballos}{https://www.researchgate.net/profile/Manuel-Zeballos}
+\end{center}
+\vspace{10pt}
+
+# Summary
+
+Biologist with advanced training in sustainability, remote sensing, and GIS, specializing in environmental monitoring and spatial data analysis. Proven experience in satellite imagery processing, ecological research, and environmental risk assessment. Skilled in Python, R, QGIS, and Google Earth Engine. Passionate about leveraging remote sensing and geospatial tools to address global environmental challenges.
+
+<!---# Scientist
+Geospatial Data Engineer with a background in biology and sustainability, specializing in building automated pipelines for wildfire risk and environmental monitoring using Python, GDAL, and cloud-based processing. Passionate about leveraging remote sensing and geospatial tools to address global environmental challenges.
+--->
+
+# Skill Highlights
+
+**Main**: Remote Sensing, Hyperspectral Data, Wildfire Monitoring, Spatial Data Pipelines
+
+**Technical Skills:** Remote Sensing, GIS, Spatial Data Modeling, Data Visualization, Database Management.
+
+**Software Proficiency:** Python (Geopandas, Numpy, Scikit-learn, Rasterio, GDAL), R, QGIS, SNAP, PostgreSQL, Linux, 
+
+**Cloud-based geospatial processing** Google Earth Engine, OpenEO, Zarr files management
+
+**Analytical Skills:** Satellite Image Analysis, Environmental Risk Assessment, Ecological Modeling, Hyperspectral Data Processing, Data Management, Natural Resources, Critical Analysis.
+
+**Other Skills:** Scientific Writing, Reporting, Teaching, Project Management, Attention to Detail, Strong Communication Skills, Collaboration.
+
+## Languages
+
+-   **English:** Proficient (Reading), Intermediate (Writing/Speaking)
+-   **Italian:** Basic (Reading, Writing/Speaking)
+-   **Portuguese:** Intermediate (Reading), Basic (Writing/Speaking)
+-   **Spanish:** Native
+
+------------------------------------------------------------------------
+
+# Experience
+
+## Master’s Research Fellow
+
+*National Commission on Space Activities (CONAE), Argentina*\
+**February 2024 – Present**
+
+<!---#
+-   Conducted advanced research on remote sensing applications for environmental monitoring.
+--->
+-   Constructed and managed multi-source database and implementing quality control procedures for geospatial products metadata, to support the creation of the institutional GeoNode platform.\
+<!---#
+- Developed automated satellite imagery processing workflows using Python and GEE
+- Created spatial data pipelines for environmental monitoring applications  
+- Managed and processed multi-temporal remote sensing datasets
+- Implemented quality control procedures for geospatial data outputs
+--->
+-   Built multiple end-to-end pipelines for remote sensing data in Python (Geopandas, Numpy, Scikit-learn, Rasterio, GDAL, and Xarray) , R and GEE to model spatial data.\
+-   Implemented data cleaning, radiometric corrections, and time-series processing workflows to support ecological and environmental studies.\
+-   Carry on the research project "Evaluation of the potential of hyperspectral remote sensing for monitoring vegetation affected by fires in mountain ecosystems in Cordoba, Argentina." usign Python, R, QGIS, and GEE to analyze hyperspectral data, wich led to the creation of a integrated tool for wildfire monitoring in Cordoba, Argentina.
+
+## MAECI Research Fellowship in Remote Sensing
+
+*EOSIAL, Sapienza University of Rome, Italy*\
+**February 2025 – July 2025**
+
+-   Scholarship granted by the Italian Ministry of Foreign Affairs (MAECI).
+-   Conducted research on Earth Observation applications under the supervision of Prof. Dr. Giovanni Laneve.
+-   Developed automated Python pipelines for preprocessing and analyzing hyperspectral remote sensing data.
+-   Integrated remote sensing techniques into ecological and wildfire change studies using hyperspectral data.
+
+
+## ASI Training Fellowship
+
+*University of Pavia and Italian Space Agency (ASI), Italy*\
+**February 2025 – July 2025**
+
+- Applied advanced remote sensing methodologies to process and analyze satellite imagery for environmental monitoring.
+- Leveraged satellite data and EO software to build models for sustainability and risk assessment applications.
+-   Developed a Land Cover Classification on the Jureca HPC cluster (Jülich Supercomputing Center, Germany).
+
+## GIS and Earth Observation Consultant
+
+*IDECOR – UNC, Córdoba, Argentina*\
+**October 2023 – March 2024**
+
+-   Specific collaboration agreement with Banco de la Provincia de Córdoba S.A.
+-   Designed and executed an Environmental and Social Territorial Sensitivity Analysis (ASAST) for Córdoba Province, integrating all available data sources developed by IDECOR.
+-   I developed a local fire hazard index for the entire Córdoba, Argentina region.
+-   Compiled a comprehensive set of over 21 thematic maps and layers, essential for conducting thorough territorial and environmental risk assessments.
+-   Drafted detailed reports for stakeholders.
+
+## Student Assistant
+
+*Faculty of Exact, Physical and Natural Sciences, UNC*\
+**May 2020 – February 2024**
+
+-   Conducted and planned theoretical classes and practical activities.
+
+## Junior Research Assistant
+
+*IDEA-CONICET, Córdoba, Argentina*\
+**May 2019 – September 2021**
+
+-   Project: Influence of the Urban Heat Island effect on the flight and foraging activity of *Plebeia catamarcensis*.
+-   Resulted in publication in a high-impact journal: [DOI: 10.1080/00218839.2022.2110431](https://doi.org/10.1080/00218839.2022.2110431).
+
+## Student Researcher
+
+*IDEA-CONICET, Córdoba, Argentina*\
+**March 2018 – January 2019**
+
+-   Led research experiments and presented results in internal seminars.
+-   Resulted in a published poster: [DOI: 10.24215/25456377e006R](https://doi.org/10.24215/25456377e006R).
+  
+<!-- # Educacion
+-->
+------------------------------------------------------------------------
+
+# Education
+
+## MSc in Spatial Information Applications *(expected early 2026)*
+*FAMAF, UNC – CONAE, Córdoba, Argentina*
+
+-   Awarded the CONAE Postgraduate Scholarship.
+-   Specialized in remote sensing and GIS applications for environmental studies.
+-   Spatial data processing and analysis using Python and R.
+
+**Relevant Coursework**
+
+-   Digital Processing of Satellite Images and GIS (10.00/10)
+-   Programming and Numerical Methods for Satellite Information Processing (10.00/10)
+-   Applications of Synthetic Aperture Radar Imagery (9.67/10)
+-   Environmental Remote Sensing (9.00/10)
+-   Numerical Models for Early Warning, Risk Mapping, and Simulation (9.00/10)
+-   Spatial Analysis and Risk Situations (9.00/10)
+-   Tools for Environmental Assessment, Management, and Monitoring (9.00/10)
+
+## ASI Training Program Module on Earth Observation (2025)
+*University of Pavia –  Italian Space Agency (ASI), Italy*
+<!--
+-   Specialized in new perspectives of Earth Observation.
+-   Training in glacier/snow monitoring, CubeSats, wildfire remote sensing, hyperspectral imaging, deep learning for Earth observation.
+-->
+
+## University Diploma in Applied Geomatics (2023)
+*Mario Gulich Institute, CONAE, UNC, Argentina* (10/10)
+
+## Bachelor of Science in Biology (2021)
+*National University of Córdoba UNC, Argentina* (8.9/10)
+<!--
+-   Published research on urban heat island effects on bee behavior.
+-->
+
+
+
+## Basic Technician in Environmental Issues (2014)
+
+*National University of Córdoba*
+
+<!---->
+
+------------------------------------------------------------------------
+
+# Postgraduate Courses Highlights
+
+- Spring School on **Artificial Intelligence and Quantum Computing in Earth Observation** (2025) at Gulich institute (Argentina) by IEEE-GRSS.
+-   Machine Learning for Earth Observation and Data Fusion (2025), Blended Intensive Program:
+    -  **Introduction to Machine and Deep Learning for EO**, by Paolo Gamba (Uni. Pavia, Italy)
+    -  **Deep Learning for hyperspectral data**, by Jocelyn Chanussot (Grenoble Institute of Technology, France)
+    -  **Deep Learning for multilabel classifications**, by Begüm Demir, Jonas Klotz, Mathis Jürgen Adler (Technische Universität Berlin, Germany)
+    - **Large-Scale Deep Learning with HPC for EO**, by (Jülich Supercomputing Center)
+-   **Hyperspectral data processing** (2025), by Claudia Giarndino (CNR-IREA, Italy)
+-   **Retrieval of biophysical parameters from optical and radar data** (2025),Mattia Callegari (EuRAC, Italy).
+-   **Cubesats and smallsats for Earth observation** (2025), by Adriano Camps (Universitat Politècnica de Catalunya, Spain).
+-   **Remote sensing for wildfire applications** (2025), by Giovanni Laneve (Sapienza University, Roma, Italy)
+
+-   **Sustainability, Development and Social Participation in Latin America** (2022), University of Kassel and UNSAM.
+<!---->
+
+-----------------------------------------------------------
+
+# Awards & Scholarships
+
+- **Research Internship Scholarship** – Ministry of Foreign Affairs of Italy (2024–2025).
+Awarded for a 6-month research internship in the space sector.
+
+- **Modulo ASI Scholarship** - University of Pavia, Italy (2025). Funding for specific training of experts and users of the SIASGE system data, including the inscription of "Summer School in Space Sciences"
+
+- **IDEA  Professional Development Microgrant microgrant** - IEEE Geoscience and Remote Sensing Society (2025). Financial support for Remote Sensing investigation.
+
+- **Posgraduate Scholarship** - National Commission on Space Activities (2024-2025). Funding for Master's programs at the Gulich Institute (UNC-CONAE).
+
+----------------------------------------------------------
+
+# Professional Affiliations
+
+-   Geoscience and Remote Sensing Society (GRSS) — IEEE graduate student member.
+
+------------------------------------------------------------------------
+
+# Publications
+
+- Poster: Master's in Spatial Information Applications: Insights after 100 Graduates Across South America and Italy (2025). Living Planet Symposium\
+-   Influence of the Urban Heat Island Effect on the Flight and Foraging Activity of *Plebeia catamarcensis* (2022). Journal of Apicultural Research.  [DOI link](https://doi.org/10.1080/00218839.2022.2110431)\
+-   Poster: Reproductive Biology and Evolution (2019).   [DOI link](https://doi.org/10.24215/25456377e006R)
+
+
+
+<!--
+Así se comenta encerrado en estos símbolos
+-->
+
+<!--
+-->
