@@ -1,8 +1,6 @@
 ---
 title: \Huge Manuel Zeballos \par
 subtitle: "Earth Observation Specialist"
-filters:
-  - output_name.lua
 params:
   target_role: "data_scientist"  # Change this per application
   include_management: false
@@ -38,11 +36,6 @@ format:
 ---
 \begin{center}
 \textbf{Córdoba, Argentina}
-
-%%% Cell: (+54) 9 351 2353858
-%%%| manuel.zeballos@ig.edu.ar
-%%% Cell: (+39) 344 433 2055
-%%%| manuel.zeballos@mi.unc.edu.ar
 
 LinkedIn: 
 \href{https://linkedin.com/in/manuel-zeballos-419456249}{https://linkedin.com/in/manuel-zeballos-419456249}
