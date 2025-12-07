@@ -2,7 +2,7 @@
 title: \Huge Manuel Zeballos \par
 subtitle: "Earth Observation Specialist"
 params:
-  target_role: "data_scientist"  # Change this per application
+  target_role: "data_scientist"
   include_management: false
   include_research: true
   brand:
@@ -14,21 +14,9 @@ params:
   defaults: 
     awesomecv-typst:
       font-header: Roboto
+project:
+  type: website
 format:
-  pdf:
-    documentclass: article
-    geometry:
-      - top=15mm 
-      - bottom=20mm
-      - vmargin=20mm
-      - hmargin=25mm
-    title-spacing:
-      before: 0pt
-      after: 0pt     # ← change this to control space below the title
-    subtitle-title-spacing:
-      before: 0pt
-      after: 1pt
-
   html:
     theme: cosmo
     toc: true
