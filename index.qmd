@@ -1,6 +1,6 @@
 ---
-title: "Portfolio\
-        Manuel Zeballos"
+title: "Portfolio"
+subtitle: "Manuel Zeballos"
 ---
 
 This is the portfolio of Manuel Zeballos 
